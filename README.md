@@ -99,10 +99,7 @@
     
 <p align="left">   </a>  </a> </a> 
 
-<!-- GitHub Stats -->
-<h2 align="center">⚡ GitHub Stats</h2>
 <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=GMafuo&show_icons=true&theme=radical" alt="GMafuo GitHub Stats" />
     <img align="center" src="https://media.giphy.com/media/z5iCvo1oCbqt7ukMQs/giphy.gif">
 </p>
 
